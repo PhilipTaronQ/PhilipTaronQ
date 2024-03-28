@@ -1,10 +1,10 @@
 ### Hi there :wave: 
 
-I'm Philip Taron, a consulting engineer with [Qumulo](https://github.com/Qumulo/). This is my work-only account. [@philiptaron](https://github.com/philiptaron/) is my other one.
+I'm Philip Taron, a Principal Member of Technical Staff with [Qumulo](https://github.com/Qumulo/). This is my work-only account. [@philiptaron](https://github.com/philiptaron/) is my other one.
 
 I'm interested in:
 
-1. Immutable, reproducible infrastructure. [Nix](http://nixos.org) is what I'm learning and applying at work right now (as of July 2022).
+1. Immutable, reproducible infrastructure. [Nix](http://nixos.org) is what I'm learning and applying at work right now (as of April 2024).
 2. Distributed systems, especially filesystems and other core storage technology. While Qumulo is a closed-source product, I'm excited about what I can share with the world of what we've built.
 3. Build systems, especially incremental ones. I've written one used internally at Qumulo (with [@ericyoungblut](https://github.com/EricYoungblut/)) and I'm always seeking other performant and hermitic ways of taking raw code and making something useful.
 4. Code generation. Writing code that writes code allows me to be far more productive and powerful _as an individual developer_ than I would be otherwise.
