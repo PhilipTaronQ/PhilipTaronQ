@@ -2,6 +2,9 @@
 
 I'm Philip Taron, a Principal Member of Technical Staff with [Qumulo](https://github.com/Qumulo/). This is my work-only account. [@philiptaron](https://github.com/philiptaron/) is my other one.
 
+#### Qumulo
+[Qumulo](https://qumulo.com/) builds the world's best filesystem. You can trust it to store, manage, and curate your most important data, anywhere in the world. It gives you total control: yes to every cloud, yes to every hardware vendor, yes to performance and yes to correctness. I am extremely proud to continue to be part of the team that makes this product come to life. [Join us!](https://qumulo.com/careers/)
+
 #### Nix
 I'm a member of the [Steering Committee](https://nixos.org/community/teams/steering-committee/) for Nix and NixOS for the 2025-2026 term.
 I also help [run the GitHub actions which power continuous integration for Nixpkgs](https://github.com/orgs/NixOS/teams/nixpkgs-ci).
